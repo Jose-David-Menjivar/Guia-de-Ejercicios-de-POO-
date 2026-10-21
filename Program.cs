@@ -33,4 +33,7 @@ Ejercicio10 ejercicio10 = new Ejercicio10();
 //ejercicio10.CalcularPrestamo();
 
 Ejercicio11 ejercicio11 = new Ejercicio11();
-ejercicio11.NumeroEntero();
+//ejercicio11.NumeroEntero();
+
+Ejercicio12 ejercicio12 = new Ejercicio12();
+ejercicio12.Mayorde3Numeros();
