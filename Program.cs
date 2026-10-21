@@ -18,4 +18,7 @@ Ejercicio5 ejercicio5 = new Ejercicio5();
 //ejercicio5.ConvertirTemperatura();
 
 Ejercicio6 ejercicio6 = new Ejercicio6();
-ejercicio6.SumaDeDigitos();
+//ejercicio6.SumaDeDigitos();
+
+Ejercicio7 ejercicio7 = new Ejercicio7();
+ejercicio7.TiempoTranscurrido();
