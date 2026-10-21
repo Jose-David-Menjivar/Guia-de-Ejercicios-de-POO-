@@ -27,4 +27,7 @@ Ejercicio8 ejercicio8 = new Ejercicio8();
 //ejercicio8.DesgloseBilletes();
 
 Ejercicio9 ejercicio9 = new Ejercicio9();
-ejercicio9.CalcularSalario();
+//ejercicio9.CalcularSalario();
+
+Ejercicio10 ejercicio10 = new Ejercicio10();
+ejercicio10.CalcularPrestamo();
