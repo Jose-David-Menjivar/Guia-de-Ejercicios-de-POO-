@@ -48,4 +48,7 @@ Ejercicio15 ejercicio15 = new Ejercicio15();
 //ejercicio15.EvaluarLetra();
 
 Ejercicio16 ejercicio16 = new Ejercicio16();
-ejercicio16.SistemaCalificaciones();
+//ejercicio16.SistemaCalificaciones();
+
+Ejercicio17 ejercicio17 = new Ejercicio17();
+ejercicio17.CalcularDescuento();
