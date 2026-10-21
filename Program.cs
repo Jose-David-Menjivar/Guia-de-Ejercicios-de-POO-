@@ -30,4 +30,7 @@ Ejercicio9 ejercicio9 = new Ejercicio9();
 //ejercicio9.CalcularSalario();
 
 Ejercicio10 ejercicio10 = new Ejercicio10();
-ejercicio10.CalcularPrestamo();
+//ejercicio10.CalcularPrestamo();
+
+Ejercicio11 ejercicio11 = new Ejercicio11();
+ejercicio11.NumeroEntero();
