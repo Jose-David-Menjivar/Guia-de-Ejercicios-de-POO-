@@ -9,5 +9,8 @@ Ejercicio2 ejercicio2 = new Ejercicio2();
 //ejercicio2.Calculadora();
 
 Ejercicio3 ejercicio3 = new Ejercicio3();
-ejercicio3.Intercambio();
+//ejercicio3.Intercambio();
+
+Ejercicio4 ejercicio4 = new Ejercicio4();
+ejercicio4.Calcular();  
 
