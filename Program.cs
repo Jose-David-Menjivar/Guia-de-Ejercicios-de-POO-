@@ -54,5 +54,8 @@ Ejercicio17 ejercicio17 = new Ejercicio17();
 //ejercicio17.CalcularDescuento();
 
 Ejercicio18 ejercicio18 = new Ejercicio18();
-ejercicio18.CalcularEstacionamiento();
+//ejercicio18.CalcularEstacionamiento();
+
+Ejercicio19 ejercicio19 = new Ejercicio19();
+ejercicio19.ClasificarTriangulo();
 
