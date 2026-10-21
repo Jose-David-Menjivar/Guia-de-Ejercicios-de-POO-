@@ -5,7 +5,7 @@ namespace Guia_de_Ejercicios_de_POO.Ejercicios
 {
     /*Primero muestro un menu para convertir temperaturas entre celsius, fahrenheit 
     y kelvin validando las opciones y mostrando el resultado con un switch con sus respetivas calculos y con dos decimales*/
-    public class Ejercicio5
+    public class Ejercicio05
     {
         public void ConvertirTemperatura()
         {

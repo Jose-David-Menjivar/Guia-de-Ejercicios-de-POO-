@@ -4,7 +4,7 @@ diferencia en horas, minutos y segundos.*/
 namespace Guia_de_Ejercicios_de_POO.Ejercicios
 {
     // pido las dos horas con minutos y segundos valido los rangos convierto todo a segundos para calcular la diferencia y lo vuelvo a separar
-    public class Ejercicio7
+    public class Ejercicio07
     {
         public void TiempoTranscurrido()
         {

@@ -2,31 +2,31 @@
 using Guia_de_Ejercicios_de_POO;
 using Guia_de_Ejercicios_de_POO.Ejercicios;
 
-Ejercicio1 ejercicio1 = new Ejercicio1();
+Ejercicio01 ejercicio1 = new Ejercicio01();
 //ejercicio1.Ejecutar();
 
-Ejercicio2 ejercicio2 = new Ejercicio2();
+Ejercicio02 ejercicio2 = new Ejercicio02();
 //ejercicio2.Calculadora();
 
-Ejercicio3 ejercicio3 = new Ejercicio3();
+Ejercicio03 ejercicio3 = new Ejercicio03();
 //ejercicio3.Intercambio();
 
-Ejercicio4 ejercicio4 = new Ejercicio4();
+Ejercicio04 ejercicio4 = new Ejercicio04();
 //ejercicio4.Calcular();  
 
-Ejercicio5 ejercicio5 = new Ejercicio5();
+Ejercicio05 ejercicio5 = new Ejercicio05();
 //ejercicio5.ConvertirTemperatura();
 
-Ejercicio6 ejercicio6 = new Ejercicio6();
+Ejercicio06 ejercicio6 = new Ejercicio06();
 //ejercicio6.SumaDeDigitos();
 
-Ejercicio7 ejercicio7 = new Ejercicio7();
+Ejercicio07 ejercicio7 = new Ejercicio07();
 //ejercicio7.TiempoTranscurrido();
 
-Ejercicio8 ejercicio8 = new Ejercicio8();
+Ejercicio08 ejercicio8 = new Ejercicio08();
 //ejercicio8.DesgloseBilletes();
 
-Ejercicio9 ejercicio9 = new Ejercicio9();
+Ejercicio09 ejercicio9 = new Ejercicio09();
 //ejercicio9.CalcularSalario();
 
 Ejercicio10 ejercicio10 = new Ejercicio10();

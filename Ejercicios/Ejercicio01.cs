@@ -3,7 +3,7 @@ monto a dólares y a euros, mostrando los resultados con dos decimales.*/
 
 namespace Guia_de_Ejercicios_de_POO.Ejercicios
 {
-    public class Ejercicio1
+    public class Ejercicio01
     {
         public void Ejecutar()
         {

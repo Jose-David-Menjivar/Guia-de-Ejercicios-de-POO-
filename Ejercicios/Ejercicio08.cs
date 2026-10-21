@@ -4,7 +4,7 @@
 namespace Guia_de_Ejercicios_de_POO.Ejercicios
 {
     /*pido un monto en lempiras valido que sea positivo y calculo la menor cantidad de billetes necesarios usando division y residuo*/
-    public class Ejercicio8
+    public class Ejercicio08
     {
         public void DesgloseBilletes()
         {

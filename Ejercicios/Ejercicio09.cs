@@ -5,7 +5,7 @@ namespace Guia_de_Ejercicios_de_POO.Ejercicios
 {
     /*Primero pido las horas trabajadas y el pago por hora valido que sean positivos y 
     calculo el salario con desglose de horas normales y horas extras pagadas al 150%*/
-    public class Ejercicio9
+    public class Ejercicio09
     {
         public void CalcularSalario()
         {

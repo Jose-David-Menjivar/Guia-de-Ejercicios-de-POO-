@@ -5,7 +5,7 @@ namespace Guia_de_Ejercicios_de_POO.Ejercicios
 {
     /*Primero creo un menu para elegir entre circulo triangulo rectangulo o trapecio valido que las medidas sean 
     positivas y calculo el area y perimetro de la figura seleccionada con dos decimales con un switch para mas eficiente*/
-    public class Ejercicio4
+    public class Ejercicio04
     {
         public void Calcular()
         {

@@ -4,7 +4,7 @@ dígitos usando únicamente división entera y módulo (sin ciclos ni conversió
 namespace Guia_de_Ejercicios_de_POO.Ejercicios
 {
     // pido un numero positivo de tres digitos valido que este en el rango de 100 a 999 y sumo sus digitos usando solo division y residuo
-    public class Ejercicio6
+    public class Ejercicio06
     {
         public void SumaDeDigitos()
         {

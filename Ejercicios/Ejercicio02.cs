@@ -3,7 +3,7 @@ mostrar en qué categoría se encuentra (bajo peso, normal, sobrepeso, obesidad)
 
 namespace Guia_de_Ejercicios_de_POO.Ejercicios
 {
-    public class Ejercicio2
+    public class Ejercicio02
     {
         /*Primero se solicita el peso en kg y la altura como lo pide, y luego se calcula la masa corporal, se hace un if por si el usuario 
         ingresa un valor menor a 0 y luego se hace una evaluacion por rangos con if y else para determinar en que categoria se encuentra*/

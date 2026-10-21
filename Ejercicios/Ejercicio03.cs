@@ -6,7 +6,7 @@ namespace Guia_de_Ejercicios_de_POO.Ejercicios
 {
     /*primero declaro las dos variables y las intercambio con una variable temporal y 
     luego hago el reto intercambiandolas solo con suma y resta*/
-    public class Ejercicio3
+    public class Ejercicio03
     {
         public void Intercambio()
         {
