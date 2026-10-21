@@ -34,6 +34,18 @@ Ejercicio10 ejercicio10 = new Ejercicio10();
 
 Ejercicio11 ejercicio11 = new Ejercicio11();
 //ejercicio11.NumeroEntero();
-
+    
 Ejercicio12 ejercicio12 = new Ejercicio12();
-ejercicio12.Mayorde3Numeros();
+//ejercicio12.Mayorde3Numeros();
+
+Ejercicio13 ejercicio13 = new Ejercicio13();
+//ejercicio13.DiasdelaSemana();
+
+Ejercicio14 ejercicio14 = new Ejercicio14();
+//ejercicio14.CalculadoraSwitch();
+
+Ejercicio15 ejercicio15 = new Ejercicio15();
+//ejercicio15.EvaluarLetra();
+
+Ejercicio16 ejercicio16 = new Ejercicio16();
+ejercicio16.SistemaCalificaciones();
