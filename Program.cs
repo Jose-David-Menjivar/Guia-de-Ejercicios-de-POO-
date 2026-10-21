@@ -51,4 +51,8 @@ Ejercicio16 ejercicio16 = new Ejercicio16();
 //ejercicio16.SistemaCalificaciones();
 
 Ejercicio17 ejercicio17 = new Ejercicio17();
-ejercicio17.CalcularDescuento();
+//ejercicio17.CalcularDescuento();
+
+Ejercicio18 ejercicio18 = new Ejercicio18();
+ejercicio18.CalcularEstacionamiento();
+
