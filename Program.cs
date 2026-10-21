@@ -21,4 +21,7 @@ Ejercicio6 ejercicio6 = new Ejercicio6();
 //ejercicio6.SumaDeDigitos();
 
 Ejercicio7 ejercicio7 = new Ejercicio7();
-ejercicio7.TiempoTranscurrido();
+//ejercicio7.TiempoTranscurrido();
+
+Ejercicio8 ejercicio8 = new Ejercicio8();
+ejercicio8.DesgloseBilletes();
