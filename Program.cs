@@ -24,4 +24,7 @@ Ejercicio7 ejercicio7 = new Ejercicio7();
 //ejercicio7.TiempoTranscurrido();
 
 Ejercicio8 ejercicio8 = new Ejercicio8();
-ejercicio8.DesgloseBilletes();
+//ejercicio8.DesgloseBilletes();
+
+Ejercicio9 ejercicio9 = new Ejercicio9();
+ejercicio9.CalcularSalario();
