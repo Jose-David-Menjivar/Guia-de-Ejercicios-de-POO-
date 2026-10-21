@@ -12,5 +12,7 @@ Ejercicio3 ejercicio3 = new Ejercicio3();
 //ejercicio3.Intercambio();
 
 Ejercicio4 ejercicio4 = new Ejercicio4();
-ejercicio4.Calcular();  
+//ejercicio4.Calcular();  
 
+Ejercicio5 ejercicio5 = new Ejercicio5();
+ejercicio5.ConvertirTemperatura();
