@@ -93,7 +93,10 @@ Ejercicio30 ejercicio30 = new Ejercicio30();
 //ejercicio30.CalcularCombinaciones();
 
 Ejercicio31 ejercicio31 = new Ejercicio31();
-ejercicio31.CalcularMcdYcm();
+//ejercicio31.CalcularMcdYcm();
 
 Ejercicio32 ejercicio32 = new Ejercicio32();
-ejercicio32.PrimosEnRango();
+//ejercicio32.PrimosEnRango();
+
+Ejercicio33 ejercicio33 = new Ejercicio33();
+ejercicio33.JuegoAdivinanza();
