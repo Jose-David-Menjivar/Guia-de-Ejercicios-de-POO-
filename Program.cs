@@ -102,4 +102,7 @@ Ejercicio33 ejercicio33 = new Ejercicio33();
 //ejercicio33.JuegoAdivinanza();
 
 Ejercicio34 ejercicio34 = new Ejercicio34();
-ejercicio34.ValidarContrasena();
+//ejercicio34.ValidarContrasena();
+
+Ejercicio35 ejercicio35 = new Ejercicio35();
+ejercicio35.PatronesConsola();
