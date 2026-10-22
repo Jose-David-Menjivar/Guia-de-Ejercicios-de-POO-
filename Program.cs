@@ -87,5 +87,8 @@ Ejercicio28 ejercicio28 = new Ejercicio28();
 //ejercicio28.ConvertirDecimalABinario();
 
 Ejercicio29 ejercicio29 = new Ejercicio29();
-ejercicio29.GenerarFibonacci();
+//ejercicio29.GenerarFibonacci();
+
+Ejercicio30 ejercicio30 = new Ejercicio30();
+ejercicio30.CalcularCombinaciones();
 
