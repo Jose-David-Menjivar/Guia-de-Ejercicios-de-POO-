@@ -78,5 +78,8 @@ Ejercicio25 ejercicio25 = new Ejercicio25();
 //ejercicio25.CalcularPromedioCentinela();
 
 Ejercicio26 ejercicio26 = new Ejercicio26();
-ejercicio26.CalcularPotencia();
+//ejercicio26.CalcularPotencia();
+
+Ejercicio27 ejercicio27 = new Ejercicio27();
+ejercicio27.InvertirNumero();
 
