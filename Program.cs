@@ -66,5 +66,8 @@ Ejercicio21 ejercicio21 = new Ejercicio21();
 //ejercicio21.ValidarFecha();
 
 Ejercicio22 ejercicio22 = new Ejercicio22();
-ejercicio22.RetiroCajero();
+//ejercicio22.RetiroCajero();
+
+Ejercicio23 ejercicio23 = new Ejercicio23();
+ejercicio23.MostrarTabla();
 
