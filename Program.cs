@@ -63,5 +63,8 @@ Ejercicio20 ejercicio20 = new Ejercicio20();
 //ejercicio20.CalcularDiasDelMes();
 
 Ejercicio21 ejercicio21 = new Ejercicio21();
-ejercicio21.ValidarFecha();
+//ejercicio21.ValidarFecha();
+
+Ejercicio22 ejercicio22 = new Ejercicio22();
+ejercicio22.RetiroCajero();
 
