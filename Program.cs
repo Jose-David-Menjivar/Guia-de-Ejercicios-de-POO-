@@ -123,4 +123,7 @@ Ejercicio40 ejercicio40 = new Ejercicio40();
 //ejercicio40.FrecuenciaElementos();
 
 Ejercicio41 ejercicio41 = new Ejercicio41();
-ejercicio41.ArregloTemperaturas();
+//ejercicio41.ArregloTemperaturas();
+
+Ejercicio42 ejercicio42 = new Ejercicio42();
+ejercicio42.BusquedaOrdenamiento();
