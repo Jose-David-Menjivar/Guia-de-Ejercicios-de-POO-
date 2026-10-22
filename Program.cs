@@ -95,3 +95,5 @@ Ejercicio30 ejercicio30 = new Ejercicio30();
 Ejercicio31 ejercicio31 = new Ejercicio31();
 ejercicio31.CalcularMcdYcm();
 
+Ejercicio32 ejercicio32 = new Ejercicio32();
+ejercicio32.PrimosEnRango();
