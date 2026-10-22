@@ -111,4 +111,7 @@ Ejercicio36 ejercicio36 = new Ejercicio36();
 //ejercicio36.CalculadoraMenu();
 
 Ejercicio37 ejercicio37 = new Ejercicio37();
-ejercicio37.RegistroNumeros();
+//ejercicio37.RegistroNumeros();
+
+Ejercicio38 ejercicio38 = new Ejercicio38();
+ejercicio38.ArregloNombres();
