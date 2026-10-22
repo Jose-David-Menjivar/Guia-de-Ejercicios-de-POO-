@@ -60,5 +60,8 @@ Ejercicio19 ejercicio19 = new Ejercicio19();
 //ejercicio19.ClasificarTriangulo();
 
 Ejercicio20 ejercicio20 = new Ejercicio20();
-ejercicio20.CalcularDiasDelMes();
+//ejercicio20.CalcularDiasDelMes();
+
+Ejercicio21 ejercicio21 = new Ejercicio21();
+ejercicio21.ValidarFecha();
 
