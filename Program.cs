@@ -75,5 +75,8 @@ Ejercicio24 ejercicio24 = new Ejercicio24();
 //ejercicio24.SumarParesImpares();
 
 Ejercicio25 ejercicio25 = new Ejercicio25();
-ejercicio25.CalcularPromedioCentinela();
+//ejercicio25.CalcularPromedioCentinela();
+
+Ejercicio26 ejercicio26 = new Ejercicio26();
+ejercicio26.CalcularPotencia();
 
