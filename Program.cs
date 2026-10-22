@@ -69,5 +69,8 @@ Ejercicio22 ejercicio22 = new Ejercicio22();
 //ejercicio22.RetiroCajero();
 
 Ejercicio23 ejercicio23 = new Ejercicio23();
-ejercicio23.MostrarTabla();
+//ejercicio23.MostrarTabla();
+
+Ejercicio24 ejercicio24 = new Ejercicio24();
+ejercicio24.SumarParesImpares();
 
