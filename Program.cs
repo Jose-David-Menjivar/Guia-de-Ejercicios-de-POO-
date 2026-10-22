@@ -129,4 +129,7 @@ Ejercicio42 ejercicio42 = new Ejercicio42();
 //ejercicio42.BusquedaOrdenamiento();
 
 Ejercicio43 ejercicio43 = new Ejercicio43();
-ejercicio43.RotacionArreglo();
+//ejercicio43.RotacionArreglo();
+
+Ejercicio44 ejercicio44 = new Ejercicio44();
+ejercicio44.HistogramaCalificaciones();
