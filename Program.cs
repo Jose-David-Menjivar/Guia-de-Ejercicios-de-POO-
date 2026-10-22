@@ -108,4 +108,7 @@ Ejercicio35 ejercicio35 = new Ejercicio35();
 //ejercicio35.PatronesConsola();
 
 Ejercicio36 ejercicio36 = new Ejercicio36();
-ejercicio36.CalculadoraMenu();
+//ejercicio36.CalculadoraMenu();
+
+Ejercicio37 ejercicio37 = new Ejercicio37();
+ejercicio37.RegistroNumeros();
