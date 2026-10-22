@@ -72,5 +72,8 @@ Ejercicio23 ejercicio23 = new Ejercicio23();
 //ejercicio23.MostrarTabla();
 
 Ejercicio24 ejercicio24 = new Ejercicio24();
-ejercicio24.SumarParesImpares();
+//ejercicio24.SumarParesImpares();
+
+Ejercicio25 ejercicio25 = new Ejercicio25();
+ejercicio25.CalcularPromedioCentinela();
 
