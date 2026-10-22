@@ -99,4 +99,7 @@ Ejercicio32 ejercicio32 = new Ejercicio32();
 //ejercicio32.PrimosEnRango();
 
 Ejercicio33 ejercicio33 = new Ejercicio33();
-ejercicio33.JuegoAdivinanza();
+//ejercicio33.JuegoAdivinanza();
+
+Ejercicio34 ejercicio34 = new Ejercicio34();
+ejercicio34.ValidarContrasena();
