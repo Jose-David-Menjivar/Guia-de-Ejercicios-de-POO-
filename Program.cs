@@ -105,4 +105,7 @@ Ejercicio34 ejercicio34 = new Ejercicio34();
 //ejercicio34.ValidarContrasena();
 
 Ejercicio35 ejercicio35 = new Ejercicio35();
-ejercicio35.PatronesConsola();
+//ejercicio35.PatronesConsola();
+
+Ejercicio36 ejercicio36 = new Ejercicio36();
+ejercicio36.CalculadoraMenu();
