@@ -117,4 +117,7 @@ Ejercicio38 ejercicio38 = new Ejercicio38();
 //ejercicio38.ArregloNombres();
 
 Ejercicio39 ejercicio39 = new Ejercicio39();
-ejercicio39.EstadisticasCalificaciones();
+//ejercicio39.EstadisticasCalificaciones();
+
+Ejercicio40 ejercicio40 = new Ejercicio40();
+ejercicio40.FrecuenciaElementos();
