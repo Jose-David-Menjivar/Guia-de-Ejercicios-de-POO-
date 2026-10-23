@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Http.Headers;
 using Guia_de_Ejercicios_de_POO;
 using Guia_de_Ejercicios_de_POO.Ejercicios;
 
@@ -147,4 +148,7 @@ Ejercicio48 ejercicio48 = new Ejercicio48();
 //ejercicio48.NumerosUnicos();
 
 Ejercicio49 ejercicio49 = new Ejercicio49();
-ejercicio49.SepararParesImpares();
+//ejercicio49.SepararParesImpares();
+
+Ejercicio50 ejercicio50 = new Ejercicio50();
+ejercicio50.RegistroEstudiantes();
