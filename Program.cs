@@ -138,4 +138,7 @@ Ejercicio45 ejercicio45 = new Ejercicio45();
 //ejercicio45.ListaTareas();
 
 Ejercicio46 ejercicio46 = new Ejercicio46();
-ejercicio46.ListaCompras();
+//ejercicio46.ListaCompras();
+
+Ejercicio47 ejercicio47 = new Ejercicio47();
+ejercicio47.RegistroCalificaciones();
