@@ -144,4 +144,7 @@ Ejercicio47 ejercicio47 = new Ejercicio47();
 //ejercicio47.RegistroCalificaciones();
 
 Ejercicio48 ejercicio48 = new Ejercicio48();
-ejercicio48.NumerosUnicos();
+//ejercicio48.NumerosUnicos();
+
+Ejercicio49 ejercicio49 = new Ejercicio49();
+ejercicio49.SepararParesImpares();
