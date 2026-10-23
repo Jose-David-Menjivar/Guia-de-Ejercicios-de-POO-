@@ -141,4 +141,7 @@ Ejercicio46 ejercicio46 = new Ejercicio46();
 //ejercicio46.ListaCompras();
 
 Ejercicio47 ejercicio47 = new Ejercicio47();
-ejercicio47.RegistroCalificaciones();
+//ejercicio47.RegistroCalificaciones();
+
+Ejercicio48 ejercicio48 = new Ejercicio48();
+ejercicio48.NumerosUnicos();
